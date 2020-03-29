@@ -22,7 +22,7 @@ BoilerplateJS addresses the following concerns that you will have in large-scale
 * Minification, obfuscation and optimization
 * Documentation Generation
 
-##Project Home##
+## Project Home ##
 You will find more details and live samples at our project website:
 
 http://boilerplatejs.org
